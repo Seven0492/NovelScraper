@@ -21,7 +21,7 @@
 ## TABLE OF CONTENTS
 
 1. [About](#about)
-2. [Featrues](#features)
+2. [Features](#features)
 3. [Contribute](#contribute)
 4. [Attribution](#attribution)
 5. [License](#license)
